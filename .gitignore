@@ -1,0 +1,13 @@
+*.cache
+*.suo
+*.iref
+obj
+Debug
+*.pdb
+<<<<<<< Updated upstream
+*.lock
+*.ide
+*.ide-shm
+*.ide-wal
+=======
+>>>>>>> Stashed changes
