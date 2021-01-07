@@ -26,7 +26,7 @@ namespace CommandMethodTemplate
             //Get Layer
             try
             {
-                List<string> position = Position(db);
+                List<string> position = LayersToList(db);
                 MessageBox.Show(string.Join(Environment.NewLine, position));
             }
             catch (Exception e)
